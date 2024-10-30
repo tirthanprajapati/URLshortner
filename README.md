@@ -19,12 +19,10 @@
     │       ├── Shortener.js   # Component for URL shortening form
     │       └── Dashboard.js   # User dashboard for managing URLs
     └── package.json           # Frontend dependencies
-
+```
 # URL Shortener with User Management and Analytics
 
 A URL shortener application with added features for user management, URL expiration, and click analytics.
-
----
 
 ### New Features
 
@@ -40,7 +38,6 @@ A URL shortener application with added features for user management, URL expirat
    - The application tracks the number of clicks on each shortened URL.
    - Users can view the click count in their dashboard for insights.
 
----
 
 ## Installation
 
@@ -50,7 +47,6 @@ After cloning and setting up the backend and frontend, configure user authentica
 SECRET_KEY=<your_secret_key>
 ```
 
----
 
 ## Updated API Endpoints
 
